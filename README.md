@@ -5,7 +5,7 @@ Welcome to the Credit Card Fraud Detection project repository. This project aims
 ---
 
 <div align="center">
-  <img src="./card.jpeg" alt="Credit Card Fraud" style="border:none;">
+  <img src="./card.jpeg" alt="Credit Card Fraud Detection" style="border:none;">
 </div>
 
 ---
