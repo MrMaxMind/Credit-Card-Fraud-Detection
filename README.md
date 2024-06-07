@@ -31,7 +31,6 @@ This project focuses on identifying fraudulent credit card transactions by analy
 
 - `credit_card_fraud_detection.ipynb`: Jupyter notebook containing the code implementation and analysis.
 - `README.md`: This file, providing an overview of the project.
-- `creditcard.csv`: Dataset used for training and testing the models.
 
 ---
 
