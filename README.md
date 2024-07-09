@@ -38,7 +38,7 @@ This project focuses on identifying fraudulent credit card transactions by analy
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+   git clone https://github.com/MrMaxMind/Credit-Card-Fraud-Detection.git
    cd Credit-Card-Fraud-Detection
 2. **Install the required packages**:
    ```bash
